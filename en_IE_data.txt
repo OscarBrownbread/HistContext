@@ -1,0 +1,37 @@
+0432;0800;Christianisation of Ireland (St. Patrick);https://wikipedia.org/wiki/Christianity_in_Ireland
+0795;1169;Viking raids and Norse settlements;https://wikipedia.org/wiki/Vikings_in_Ireland
+1169;1390;Norman invasion and beginning of Anglo-Norman presence;https://wikipedia.org/wiki/Norman_Ireland
+1300;1534;Gaelic resurgence and transition from Lordship to more Gaelic rule;https://wikipedia.org/wiki/Gaelic_Ireland
+1534;1691;Tudor reconquest and the start of the Plantations;https://wikipedia.org/wiki/Tudor_conquest_of_Ireland
+1641;1653;Irish Confederate Wars and Confederate Ireland;https://wikipedia.org/wiki/Irish_Confederacy
+1649;1653;Cromwellian conquest of Ireland;https://wikipedia.org/wiki/Cromwellian_conquest_of_Ireland
+1689;1691;Williamite War in Ireland (Battle of the Boyne);https://wikipedia.org/wiki/Williamite_War_in_Ireland
+1695;1810;Penal Laws era;https://wikipedia.org/wiki/Penal_Laws_(Ireland)
+1740;1741;Irish Famine of 1740–1741 (Bliain an Áir, Year of Slaughter);https://wikipedia.org/wiki/Irish_Famine_(1740–1741)
+1798;1798;Irish Rebellion of 1798;https://wikipedia.org/wiki/Irish_Rebellion_of_1798
+1800;1801;Act of Union – Ireland becomes part of the United Kingdom of Great Britain and Ireland;https://wikipedia.org/wiki/Acts_of_Union_1800
+1803;1803;Robert Emmet's rebellion (Emmet's rising);https://wikipedia.org/wiki/Irish_rebellion_of_1803
+1823;1829;Catholic Emancipation movement (Daniel O'Connell), culminating in the Catholic Relief Act 1829;https://wikipedia.org/wiki/Catholic_Emancipation
+1845;1852;Great Famine (An Gorta Mór);https://wikipedia.org/wiki/Great_Famine_(Ireland)
+1867;1867;Fenian Rising (Irish Republican Brotherhood uprising);https://wikipedia.org/wiki/Fenian_Rising
+1879;1879;Irish famine of 1879;https://wikipedia.org/wiki/Irish_Famine_(1879)
+1879;1882;Land War and Land Acts – agrarian agitation and reforms;https://wikipedia.org/wiki/Land_War
+1870;1914;Home Rule movement (Third Home Rule Bill passed 1914 but suspended);https://wikipedia.org/wiki/Home_Rule
+1916;1916;Easter Rising (24–29 Apr 1916);https://wikipedia.org/wiki/Easter_Rising
+1919;1921;Irish War of Independence;https://wikipedia.org/wiki/Irish_War_of_Independence
+1921;1922;Anglo-Irish Treaty (1921) and partition leading to the Irish Free State (6 Dec 1922);https://wikipedia.org/wiki/Anglo-Irish_Treaty
+1922;1923;Irish Civil War;https://wikipedia.org/wiki/Irish_Civil_War
+1998;1998;Good Friday Agreement (Belfast Agreement signed 10 Apr 1998);https://wikipedia.org/wiki/Good_Friday_Agreement
+1922-12-06;1937-12-29;Irish Free State period (new constitution 29 Dec 1937 renamed state to Éire);https://wikipedia.org/wiki/Irish_Free_State
+1939-09-03;1945-09-02;The Emergency (Irish state during World War II) – period of Irish neutrality;https://wikipedia.org/wiki/Emergency_(Ireland)
+1948;1949;Republic of Ireland declared (Republic of Ireland Act 1948 effective 1949);https://wikipedia.org/wiki/Republic_of_Ireland_Act_1948
+1969-08-14;1998-04-10;The Troubles in Northern Ireland;https://wikipedia.org/wiki/The_Troubles
+1973;1973;Ireland joins the European Economic Community (EEC) – 1 Jan 1973;https://wikipedia.org/wiki/Ireland_and_the_European_Union
+1985-11-15;1985-11-15;Anglo-Irish Agreement signed (15 Nov 1985);https://wikipedia.org/wiki/Anglo-Irish_Agreement
+1990-11-30;1990-11-30;Mary Robinson elected President of Ireland (first female president, elected 30 Nov 1990);https://wikipedia.org/wiki/Mary_Robinson
+1994;2007;Celtic Tiger economic boom;https://wikipedia.org/wiki/Celtic_Tiger
+2008-09-29;2013-12-15;Post-2008 Irish economic downturn and EU/IMF bailout period;https://wikipedia.org/wiki/2008%E2%80%932013_Ireland_economic_crisis
+2015-05-23;2015-05-23;Same-sex marriage referendum (legalised by popular vote 23 May 2015);https://wikipedia.org/wiki/2015_Irish_same-sex_marriage_referendum
+2018-08-25;2018-08-26;Pope Francis visit for the World Meeting of Families;https://wikipedia.org/wiki/Pope_Francis%27_visit_to_Ireland_(2018)
+2018-05-25;2018-05-25;Repeal of the Eighth Amendment (abortion legalized by referendum);https://wikipedia.org/wiki/2018_Irish_abortion_referendum
+2020-03-12;2020-03-12;COVID-19 in the Republic of Ireland;https://wikipedia.org/wiki/COVID-19_pandemic_in_the_Republic_of_Ireland
